@@ -2,7 +2,9 @@
 This is an Android mobile application built with Jetpack Compose that serves as a note-taking and task management tool.
 
 Here are the key features and characteristics:
-Core Functionality:
+
+**Core Functionality:**
+
 Create Notes: Users can add new notes/tasks through a dedicated "Add Note" screen
 
 View All Notes: A home screen displays all saved notes in a scrollable list
@@ -14,7 +16,7 @@ Edit Notes: Update existing notes with new content
 Delete Notes: Remove notes from the list with a delete button
 
 
-Technical Architecture:
+**Technical Architecture:**
 
 Frontend: Built with Jetpack Compose (modern Android UI toolkit)
 
